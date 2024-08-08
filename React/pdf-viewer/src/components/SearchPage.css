@@ -1,0 +1,17 @@
+/* src/components/SearchPage.css */
+.search-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .search-page input {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .search-page button {
+    padding: 10px 20px;
+  }
